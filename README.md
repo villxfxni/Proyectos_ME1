@@ -9,6 +9,12 @@ Tarea 1 Ensayos de Websim.ai, Prompt y Devin AI:
 
 -Devin AI: https://drive.google.com/drive/folders/1QTmV4xUKpivkBo52IKhbBdY07LoLwr-s?usp=drive_link
 
+Tarea 3 Guia Telefonica con guardado de contactos en JSON:
+
+-Website: https://villxfxni.github.io/Guia_Telefonica_VILLAFANI/
+
+-Repositorio: https://github.com/villxfxni/Guia_Telefonica_VILLAFANI
+
 Tarea 2 Aplicación de Cifrado y Descifrado para 2, 4, 16 y 32 bits + cifrado propio:
 
 -Página Web: https://villxfxni.github.io/Cifrado_Decifrado_AnaVillafani/
@@ -34,4 +40,10 @@ Tarea 5 Encuesta Estudiantil - 48 preguntas
 -Página Web (estadísticas): https://cuestionario-5368c.web.app/Estadisticas/estadisticas.html
 
 -Código: https://drive.google.com/file/d/1dmWdKOdJV2N39Gk6i2DHFsYgpotA03D0/view?usp=drive_link
+
+Tarea 6 Pagina Web para un Negocio:
+
+-Pagina Web: TBA
+
+-Repositorio: TBA
 
