@@ -21,8 +21,17 @@ Tarea 3 Aplicación Web para Registro de Usuario con validación de Google:
 
 -Archivo: https://drive.google.com/file/d/1zAcRzv11PKJ59uCdOP0G_Ndtvn3VFuez/view?usp=sharing
 
-Tarea 4 (Grupal) MesiValle
+Tarea 4 (Grupal) MesiValle - Proyecto Emprendedor
 
 -Página Web: https://villxfxni.github.io/mesivalle/
 
 -Repositorio: https://github.com/villxfxni/mesivalle/
+
+Tarea 5 Encuesta Estudiantil - 48 preguntas
+
+-Página Web (preguntas): https://cuestionario-5368c.web.app/
+
+-Página Web (estadísticas): https://cuestionario-5368c.web.app/Estadisticas/estadisticas.html
+
+-Código: https://drive.google.com/file/d/1dmWdKOdJV2N39Gk6i2DHFsYgpotA03D0/view?usp=drive_link
+
