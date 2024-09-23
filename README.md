@@ -43,7 +43,6 @@ Tarea 5 Encuesta Estudiantil - 48 preguntas
 
 Tarea 6 Pagina Web para un Negocio:
 
--Pagina Web: TBA
+-Pagina Web: https://monceaufleurs-e8874.web.app/
 
--Repositorio: TBA
-
+-TROIS: https://docs.google.com/document/d/1rN_sYr1ikE-ffDaiI0Cg_dtfzcLdtr9x2HTx1-y7JRk/edit?usp=sharing
